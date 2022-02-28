@@ -20,10 +20,10 @@ feature:
   icon: microscope
   icon_pack: fas
   name: Microscopy
-- description: 20%%
+- description: 20%
   icon: dna
   icon_pack: fas
-  name: Biochemistry and Molecular Biology
+  name: Biochemistry and     Molecular Biology
 - description: 20%
   icon: python
   icon_pack: fab
