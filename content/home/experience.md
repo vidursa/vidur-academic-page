@@ -25,7 +25,7 @@ experience:
   - title: PhD candidate
     company: TIFR
     company_url: 'https://tifr.res.in/'
-    company_logo: org-x
+    company_logo: tifr
     location: Mumbai
     date_start: '2015-07-29'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
 - title: B. Tech Biotechnology 
     company: VIT University 
     company_url: 'https://vit.ac.in/'
-    company_logo: org-x
+    company_logo: VIT
     location: Vellore
     date_start: '2011-08-05'
     date_end: '2015-06-16'
