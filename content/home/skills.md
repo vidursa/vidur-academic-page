@@ -23,7 +23,7 @@ feature:
 - description: 20%
   icon: dna
   icon_pack: fas
-  name: Biochemistry and /n Molecular Biology
+  name: Molecular Biology and Biochemistry
 - description: 20%
   icon: python
   icon_pack: fab
