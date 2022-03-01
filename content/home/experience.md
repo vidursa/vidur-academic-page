@@ -51,7 +51,7 @@ experience:
         * SABEST member for the year 2011-2012 (Core committee for our school)
 
 
-- title: Trainee
+  - title: Trainee
     company: ASRF
     company_url: 'https://www.asgbiochem.com'
     company_logo: org-gc
