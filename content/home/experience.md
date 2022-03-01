@@ -36,7 +36,7 @@ experience:
         * Outreach coordinator for the department (2016-2020)
 
 - title: B. Tech Biotechnology 
-    company: VIT University
+    company: VIT University 
     company_url: 'https://vit.ac.in/'
     company_logo: org-x
     location: Vellore
