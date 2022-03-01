@@ -35,7 +35,7 @@ experience:
         * Teaching Assistant for Advanced Neuroscience course (2018)
         * Outreach coordinator for the department (2016-2020)
 
-- title: B. Tech Biotechnology 
+  - title: B. Tech Biotechnology 
     company: VIT University 
     company_url: 'https://vit.ac.in/'
     company_logo: VIT
