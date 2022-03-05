@@ -54,7 +54,6 @@ experience:
   - title: Trainee
     company: ASRF
     company_url: 'https://www.asgbiochem.com'
-    company_logo: org-gc
     location: Gurgaon, India
     date_start: '2013-12-06'
     date_end: '2014-01-03'
