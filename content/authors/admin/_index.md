@@ -39,10 +39,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:vidur.sabharwal@tifr.res.in'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/vidursa1
+  link: https://twitter.com/vidur_sa1
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=RmWGDcsAAAAJ
@@ -67,6 +67,7 @@ email: ""
 highlight_name: true
 ---
 
+Vidur Sabharwal is a Ph.D. student in molecular neuroscience at Sandhya Koushika's lab in TIFR, Mumbai. His research interests include understanding how molecular 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
