@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Understanding Kinesin's regulation by ubiquitination
-summary: Click through to understand my role in understanding how a molecular motor, Kinesin-3's movement properties are affected by a modification called ubiquitination in the nematode C. elegans.
+summary: Click through to understand my role in understanding how a molecular motor, Kinesin-3's movement properties are affected by a modification called ubiquitination in the nematode _C. elegans_.
 authors: []
 tags:
 - Biophysics

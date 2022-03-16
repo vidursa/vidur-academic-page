@@ -16,16 +16,16 @@ content:
   autolink: true
 
   # Email form provider
-  form:
+  <!-- form:
     provider: netlify
     formspree:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true -->
 
   # Contact details (edit or remove options as required)
-  email: vidur.sabharwal@tifr.res.in
+  # email: ""
   # phone: 888 888 88 88
   address:
     street: Homi Bhabha Road

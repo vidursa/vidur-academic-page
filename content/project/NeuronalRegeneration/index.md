@@ -9,7 +9,7 @@ date: "2021-11-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Vidur, published in Kulkarni et al.(2021)
+  caption: Image taken by Vidur, published as cover for _Genetics_ Nov 2021
   focal_point: Smart
 
 links:
