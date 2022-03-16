@@ -20,7 +20,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: {{< video src="Photobleached_fusion.mp4" controls="yes" >}}
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -29,7 +29,7 @@ url_video: {{< video src="Photobleached_fusion.mp4" controls="yes" >}}
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-
+{{< video src="Photobleached_fusion.mp4" controls="yes" >}}
 
 Neurons are functional units of the brain which contain long  projection called axons that pass on information to other neurons on other cells of the body. Although most of the cells in our bodies get replaced in a decade, neurons survive an entire lifetime. This opens up interesting questions as to how a neurons reapir themselves after constant assaults by the environment.
 
