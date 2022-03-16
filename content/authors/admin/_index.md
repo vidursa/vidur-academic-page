@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:vidur.sabharwal@tifr.res.in'
+  link: "mailto:vidur.sabharwal@tifr.res.in"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/vidur_sa1
@@ -54,7 +54,7 @@ social:
   link: https://www.linkedin.com/in/vidursa/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -67,9 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-Vidur Sabharwal is a Ph.D. student in molecular neuroscience at Sandhya Koushika's lab in TIFR, Mumbai. His research interests include understanding how molecular 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Vidur Sabharwal is a Ph.D. student in molecular neuroscience at Sandhya Koushika's lab in TIFR, Mumbai. His research interests include understanding how molecular motors (kinesins) are regulated within neurons, and how neuronal regeneration post-injury is regulated in _C. elegans_.
+His hobbies include cycling, and fixing old electronics items.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
