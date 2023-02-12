@@ -11,7 +11,7 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Tata Institute of Fundamental Research, Mumbai
-  url: tifr.res.in/~dbs/faculty/koushika/vidur_sabharwal.html
+  url: https://www.tifr.res.in/~dbs/faculty/koushika/vidur_sabharwal.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Molecular Neuroscience, Biophysics and _in vivo_ cell biology.
@@ -58,13 +58,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "vidur.sabharwal@tifr.res.in"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Vidur Sabharwal is a Ph.D. student in molecular neuroscience at Sandhya Koushika's lab in TIFR, Mumbai. His research interests include understanding how molecular motors (kinesins) are regulated within neurons, and how neuronal regeneration post-injury is regulated in _C. elegans_.
-His hobbies include cycling, and fixing old electronics items.
+His hobbies include cycling, and fixing old electronics items. At the intersection of both of these lies his passion to develop automated systems for biological data collection and analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
