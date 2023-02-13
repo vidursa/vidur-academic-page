@@ -12,6 +12,7 @@ weight: 40
 title: Experience
 subtitle:
 
+
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
@@ -69,14 +70,6 @@ design:
 ---
 
 
-```markmap {height="200px"}
-- Hugo Modules
-  - wowchemy
-  - wowchemy-plugins-netlify
-  - wowchemy-plugins-netlify-cms
-  - wowchemy-plugins-reveal
-```
-
 
 ```mermaid
 gantt
@@ -89,6 +82,10 @@ gantt
   API QC trainee at ASRF      : b2, 2013-12-06  , 35d
   Research Internship at IISER, Bhopal      : b3, 2014-06-02  , 58d
   section Extracurricular
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
+  Bioscience committee core member :c1, 2011-09-02  , 365d
+  RIVIERA cultureal fest Publicity coordinator :c4, 2013-02-02  , 20d
+  Biotech fest coordinator :c2, 2013-09-02  , 20d
+  Make-A-Difference organiser student's chapter :c3, 2014-03-01  , 250d
+  Outreach Coordinator TIFR : c5, 2016-02-05, 1450d
+
 ```
