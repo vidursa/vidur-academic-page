@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Molecular Neuroscience
     institution: Tata Institute of Fundamental Research
-    year: 2022
+    year: 2023
   - course: B.Tech in Biotechnology
     institution: Vellore Institute of Technology
     year: 2015
@@ -65,6 +65,7 @@ highlight_name: true
 ---
 
 Vidur Sabharwal is a Ph.D. student in molecular neuroscience at Sandhya Koushika's lab in TIFR, Mumbai. His research interests include understanding how molecular motors (kinesins) are regulated within neurons, and how neuronal regeneration post-injury is regulated in _C. elegans_.
+
 His hobbies include cycling, and fixing old electronics items. At the intersection of both of these lies his passion to develop automated systems for biological data collection and analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -16,8 +16,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: Model of Kinesin-3 movement by Vidur in collabortaion with Amitabha Nandi and Debasish Chaudhuri
+  focal_point: Smart
   preview_only: false
 
 links:
