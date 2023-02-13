@@ -44,3 +44,23 @@ In the first work covered in Kulkarni et al. (2021), my major contribution was i
 
 In the second work in Basu et al. (2017), my major contribution was to show that post regrowth, neurons sometimes re-establish connection with their severed axon pairs such that cargo can then be passed on from the neuronal cell body the distal regions. Interestingly, the neurons may not always re-form broken connections, and if the connection is lost for an extended periods of time (1-2 days), the distal axon which had been severed from the cell body starts degenerating. This process of degeneration is prevented if the neuronal cell body connection is re-established and this can be seen as a resumption of cargo transport across the severed ends, as can be seen in the movie below.
 {{< video src="Photobleached_fusion.mp4" caption="Movie from Basu et al. (2017) _PNAS_" controls="yes" >}}
+
+
+```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  section Academic
+  B. Tech. Biotechnology  :a1, 2011-08-05, 1411d
+  PhD Biology   :after a1  , 2800d
+  section Internships
+  Proteomics facility at Allele Life Sciences  :b1, 2013-06-03  , 40d
+  API QC trainee at ASRF      : b2, 2013-12-06  , 35d
+  Research Internship at IISER, Bhopal      : b3, 2014-06-02  , 58d
+  section Extracurricular
+  Bioscience committee core member :c1, 2011-09-02  , 365d
+  RIVIERA cultureal fest Publicity coordinator :c4, 2013-02-02  , 20d
+  Biotech fest coordinator :c2, 2013-09-02  , 20d
+  Make-A-Difference organiser student's chapter :c3, 2014-03-01  , 250d
+  Outreach Coordinator TIFR : c5, 2016-02-05, 1450d
+
+```
