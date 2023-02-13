@@ -11,7 +11,7 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Tata Institute of Fundamental Research, Mumbai
-  url: tifr.res.in/~dbs/faculty/koushika/vidur_sabharwal.html
+  url: https://www.tifr.res.in/~dbs/faculty/koushika/vidur_sabharwal.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Molecular Neuroscience, Biophysics and _in vivo_ cell biology.
@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Molecular Neuroscience
     institution: Tata Institute of Fundamental Research
-    year: 2022
+    year: 2023
   - course: B.Tech in Biotechnology
     institution: Vellore Institute of Technology
     year: 2015
@@ -37,12 +37,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/vidursa1
+  link: https://twitter.com/vidur_sa1
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=RmWGDcsAAAAJ
@@ -54,21 +51,21 @@ social:
   link: https://www.linkedin.com/in/vidursa/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "vidur.sabharwal@tifr.res.in"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Vidur Sabharwal is a Ph.D. student in molecular neuroscience at Sandhya Koushika's lab in TIFR, Mumbai. His research interests include understanding how molecular motors (kinesins) are regulated within neurons, and how neuronal regeneration post-injury is regulated in _C. elegans_.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His hobbies include cycling, and fixing old electronics items. At the intersection of both of these lies his passion to develop automated systems for biological data collection and analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

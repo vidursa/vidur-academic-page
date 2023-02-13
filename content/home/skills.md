@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 60%
+- description: 40%
   icon: microscope
   icon_pack: fas
   name: Microscopy
-- description: 20%
+- description: 30%
   icon: dna
   icon_pack: fas
   name: Molecular Biology and Biochemistry
-- description: 20%
+- description: 30%
   icon: python
   icon_pack: fab
   name: Python
