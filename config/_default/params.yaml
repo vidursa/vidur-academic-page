@@ -99,7 +99,7 @@ features:
 
 extensions:
   cms:
-    branch: master
+    branch: vidursa-patch-2 #master
     local_backend: false
   isotope:
     # Enable if you use the Portfolio widget or Publication filter
