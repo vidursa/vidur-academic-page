@@ -71,3 +71,5 @@ projects: []
 
 
 {{< video src="UNC-104FRAP.mp4" caption="Movie from Basu et al. (2017) _PNAS_" controls="yes" >}}
+
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vRvYMYrnFimYxI4PWSlJa4v3iMeoy2KblleUtGf5UgLb3PeRPbUQ4-CfuB4CmxVGABrQsw9iLnWTTql/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" >}}

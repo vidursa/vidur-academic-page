@@ -31,12 +31,12 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Teaching Assistant for Advanced Neuroscience course (2018)
         * Outreach coordinator for the department (2016-2020)
 
-  - title: B. Tech Biotechnology 
-    company: VIT University 
+  - title: B. Tech Biotechnology
+    company: VIT University
     company_url: 'https://vit.ac.in/'
     company_logo: VIT
     location: Vellore
@@ -44,7 +44,7 @@ experience:
     date_end: '2015-06-16'
     description: |2-
         Responsibilities include:
-        
+
         * Member of the youth organization Make A Difference (MAD) 2014
         * Discipline committee Co-coordinator, RIVIERA 2013-2014 (International sports and Cultural Carnival)
         * BIOSUMMIT 2013 Volunteer (Biotechnological fest)
@@ -59,11 +59,36 @@ experience:
     date_end: '2014-01-03'
     description: |2-
         Responsibilities include:
-        
+
         * Active Pharmaceutical Ingredient purity testing using near-infrared spectroscopy
-        * Report generation of HPLC API samples 
-        
-  
+        * Report generation of HPLC API samples
+
+
 design:
   columns: '2'
 ---
+
+
+```markmap {height="200px"}
+- Hugo Modules
+  - wowchemy
+  - wowchemy-plugins-netlify
+  - wowchemy-plugins-netlify-cms
+  - wowchemy-plugins-reveal
+```
+
+
+```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  section Academic
+  B. Tech. Biotechnology  :a1, 2011-08-05, 1411d
+  PhD Biology   :after a1  , 2800d
+  section Internships
+  Proteomics facility at Allele Life Sciences  :b1, 2013-06-03  , 40d
+  API QC trainee at ASRF      : b2, 2013-12-06  , 35d
+  Research Internship at IISER, Bhopal      : b3, 2014-06-02  , 58d
+  section Extracurricular
+  Task in sec      :2014-01-12  , 12d
+  another task      : 24d
+```
